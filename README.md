@@ -35,3 +35,17 @@ Training the K-means Model:
 - Created visualizations of the clusters to observe customer segments and interpret patterns within each group.
 ## 🎯 Results
 The clustering algorithm successfully segmented customers into distinct groups based on their purchasing behavior. Each cluster represents a unique customer segment with similar income and spending characteristics, aiding targeted marketing strategies.
+
+
+
+
+
+![cluster](https://github.com/user-attachments/assets/e7cd326c-a72f-4f5d-9e0f-aa8f78c6efb6)
+
+
+
+
+
+
+
+![graphL](https://github.com/user-attachments/assets/6dcf3d04-4602-4c3c-88e9-8da565e389fd)
